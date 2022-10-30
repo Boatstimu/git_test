@@ -1,0 +1,2 @@
+I'm at least understanding how to use the terminal.
+I'm sure I'll be introduced to more of the code itself soon.
